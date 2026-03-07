@@ -44,9 +44,11 @@ These insights help businesses understand where sales are growing and where impr
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
 
-Images/dashboard.png
+## 🚀 Live Dashboard
+🔗 https://app.powerbi.com/links/-Cyhjuahox?ctid=6509203a-6505-4962-9585-a658b43c5f8d&pbi_source=linkShare&bookmarkGuid=223ade84-c049-4626-8cb9-1c19790c26f6
 
 ---
 
