@@ -12,7 +12,7 @@ This dashboard provides a comprehensive view of sales performance through dynami
 
 ## Dashboard Preview
 
-![Sales Analytics Dashboard](https://github.com/user-attachments/assets/6e1d62d4-f9fd-4a67-98ec-98d6111dcbf4)
+![Sales Analytics Dashboard](https://github.com/soniyashaik29/sales-analytics-powerbi-dashboard/blob/main/Sales%20Analytis.png)
 
 ---
 
